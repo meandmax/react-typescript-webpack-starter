@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "allowSyntheticDefaultImports": true,
+        "jsx" : "react",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "moduleResolution": "node"
+    },
+    "files": [
+        "src/index.tsx",
+        "typings/index.d.ts"
+    ]
+}
