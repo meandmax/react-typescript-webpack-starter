@@ -3,8 +3,10 @@
   "version": "0.0.1",
   "description": "Minimalistic starter project for React applications with Typescript and css-modules",
   "scripts": {
+    "clean": "rimraf dist",
     "dev": "nodemon --exec npm run start",
-    "start": "webpack-dev-server --hot --port=3000 --config webpack.config.js"
+    "start": "webpack-dev-server --hot --port=3000 --config webpack.config.dev.js",
+    "build": "webpack --config webpack.config.build.js"
   },
   "bugs": {
     "url": "https://github.com/meandmax/react-typescript-webpack-starter/issues"

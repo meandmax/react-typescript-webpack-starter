@@ -2,7 +2,7 @@ const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  name: 'client',
+  name: 'app',
   target: 'web',
   devtool: 'eval-source-map',
   entry: './src/index.tsx',
@@ -32,9 +32,4 @@ module.exports = {
     }),
     new webpack.HotModuleReplacementPlugin(),
   ],
-  devServer: {
-    colors: true,
-    inline: true,
-    progress: true,
-  },
 };
