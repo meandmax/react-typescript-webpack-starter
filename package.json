@@ -45,7 +45,7 @@
     "eslint": "3.5.0",
     "eslint-config-airbnb-base": "7.1.0",
     "eslint-plugin-babel": "3.3.0",
-    "eslint-plugin-import": "1.16.0",
+    "eslint-plugin-import": "2.0.0",
     "extract-text-webpack-plugin": "1.0.1",
     "html-webpack-plugin": "2.22.0",
     "i": "0.3.5",
