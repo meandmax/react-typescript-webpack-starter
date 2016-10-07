@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-const styles =  require('./styles.scss');
+import styles from './styles.scss!style';
 
 interface IProps {
   name: string;
