@@ -52,7 +52,7 @@
     "html-webpack-plugin": "2.22.0",
     "i": "0.3.5",
     "node-sass": "3.10.1",
-    "nodemon": "1.10.2",
+    "nodemon": "1.11.0",
     "npm": "3.10.8",
     "postcss-loader": "0.13.0",
     "react": "15.3.2",
