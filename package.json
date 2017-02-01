@@ -51,7 +51,7 @@
     "extract-text-webpack-plugin": "1.0.1",
     "html-webpack-plugin": "2.23.0",
     "i": "0.3.5",
-    "node-sass": "3.10.1",
+    "node-sass": "4.5.0",
     "nodemon": "1.10.2",
     "npm": "3.10.9",
     "postcss-loader": "0.13.0",
